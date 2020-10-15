@@ -38,7 +38,7 @@ public class Task2 {
         } while (true);
 
         System.out.println();
-        System.out.println("----- конец задачи 2 ------");
+        System.out.println("----- Конец задачи 2 ------");
         System.out.println();
     }
 }

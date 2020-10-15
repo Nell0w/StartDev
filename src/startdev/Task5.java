@@ -24,6 +24,6 @@ public class Task5 {
             }
             System.out.println();
         }
-        System.out.println("----- конец задачи 5 ------");
+        System.out.println("----- Конец задачи 5 ------");
     }
 }

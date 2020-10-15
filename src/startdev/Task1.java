@@ -21,6 +21,6 @@ class Task1 {
 //        (0°C × 9/5) + 32 = 32°F    
         // решение задачи
         System.out.printf("По Фарингейту это будет: %6.2f%n", tempFarin);
-        System.out.println("----- конец задачи 1 ------");
+        System.out.println("----- Конец задачи 1 ------");
     }
 }

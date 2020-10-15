@@ -49,6 +49,6 @@ public class Task6 {
             System.out.println();
         }
         System.out.println();
-        System.out.println("----- конец задачи 6 ------");
+        System.out.println("----- Конец задачи 6 ------");
     }
 }
